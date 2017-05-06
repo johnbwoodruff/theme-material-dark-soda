@@ -1,0 +1,22 @@
+{
+    "name": "theme-material-dark-soda",
+    "displayName": "Material Dark Soda",
+    "description": "A beautiful and vibrant Material Design color theme",
+    "version": "0.0.1",
+    "publisher": "jbw91",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Dark Soda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Dark Soda-color-theme.json"
+            }
+        ]
+    }
+}
