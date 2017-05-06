@@ -4,4 +4,4 @@ A beautiful and vibrant Material Design theme for [Visual Studio Code](https://c
 
 ## Screenshot
 
-![screenshot](./screenshot.png)
+![screenshot](https://raw.githubusercontent.com/jbw91/theme-material-dark-soda/master/screenshot.png)
