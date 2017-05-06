@@ -3,6 +3,10 @@
     "displayName": "Material Dark Soda",
     "description": "A beautiful and vibrant Material Design color theme",
     "version": "0.0.1",
+    "author": {
+      "name": "John Woodruff",
+      "email": "johnwoodruff91@gmail.com"
+    },
     "publisher": "jbw91",
     "engines": {
         "vscode": "^1.12.0"
@@ -10,6 +14,10 @@
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+      "color": "#303030"
+    },
+    "icon": "./icon.png",
     "contributes": {
         "themes": [
             {

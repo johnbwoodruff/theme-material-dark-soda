@@ -1,7 +1,6 @@
 # Change Log
-All notable changes to the "theme-material-dark-soda" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased]
+## 1.0.0 - 2017-05-05
 - Initial release
