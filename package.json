@@ -25,7 +25,7 @@
       "color": "#303030",
       "theme": "dark"
     },
-    "icon": "./icon.png",
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [
             {
