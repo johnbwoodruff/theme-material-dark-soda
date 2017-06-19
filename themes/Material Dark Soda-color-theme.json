@@ -16,7 +16,26 @@
     "editorWhitespace.foreground": "#424242",
     "activityBar.background": "#303030",
     "activityBarBadge.background": "#0288d1",
-    "sideBar.background": "#262626"
+    "sideBar.background": "#262626",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#F44336",
+    "terminal.ansiGreen": "#9CCC65",
+    "terminal.ansiYellow": "#FFEB3B",
+    "terminal.ansiBlue": "#42A5F5",
+    "terminal.ansiMagenta": "#CE93D8",
+    "terminal.ansiCyan": "#00BCD4",
+    "terminal.ansiWhite": "#FAFAFA",
+    "terminal.ansiBrightBlack": "#424242",
+    "terminal.ansiBrightRed": "#E57373",
+    "terminal.ansiBrightGreen": "#8BC34A",
+    "terminal.ansiBrightYellow": "#FFF59D",
+    "terminal.ansiBrightBlue": "#29B6F6",
+    "terminal.ansiBrightMagenta": "#E1BEE7",
+    "terminal.ansiBrightCyan": "#4DD0E1",
+    "terminal.ansiBrightWhite": "#FFFFFF",
+    "terminal.background": "#303030",
+    "terminal.foreground": "#FAFAFA",
+    "panel.background": "#262626"
   },
   "tokenColors": [
     {
